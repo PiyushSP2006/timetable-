@@ -1,7 +1,7 @@
 var Sun=["PHYS","CHEM","BIO","MATHS","HIST"];
 var Mon=["MATHS","GEO","HIST","PHYS"];
 var Tue=["CHEM","PED","GEO","BIO"];
-var Wed=["CHEM","PED","CHEM","BIO"];
+var Wed=["HIST","ENG","ODIA","MATHS"];
 var Thurs=["CHEM","PHY","HIST","GEO"];
 var Fri=["ODIA","ENG","MATHS","BIO"];
 var Sat=["PHY","BIO","CHEM","GEO"];
